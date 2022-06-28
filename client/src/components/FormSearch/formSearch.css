@@ -1,0 +1,9 @@
+.containerAllFormSearch{
+    width: 100%;
+}
+
+.containerFormSearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

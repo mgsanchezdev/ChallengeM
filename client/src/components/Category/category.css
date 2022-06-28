@@ -1,0 +1,7 @@
+.containerCatergory{
+   padding-left: 280px;
+    background-color: var(--color-gray);
+    color: var(--color-gray-strong);
+    padding-top: 16px;
+    padding-bottom: 16px;
+}

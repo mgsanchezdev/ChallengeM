@@ -1,0 +1,7 @@
+.containerBtn{
+    width: 41px;
+    height: 41px;
+    background-color: var(--color-gray);
+    border: none;
+    cursor: pointer;
+}

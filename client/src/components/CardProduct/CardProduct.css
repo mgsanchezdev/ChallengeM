@@ -1,0 +1,19 @@
+.containerCardProduct{
+    margin-left: 280px;
+    margin-right: 280px;
+    background-color: white;
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.linkProduct{
+    text-decoration: none;
+ }
+
+ .titleProduct{
+    margin-top: 32px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: normal;
+    color: var(--color-gray-medium);
+ }

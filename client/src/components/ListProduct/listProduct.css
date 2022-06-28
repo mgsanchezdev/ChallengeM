@@ -1,0 +1,11 @@
+.containerListProducto{
+    background-color: var(--color-gray);
+}
+
+.containerError{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+}

@@ -1,0 +1,15 @@
+.containerNavbar{
+    display: flex;
+    align-items: center;
+    background-color:var(--color-yelow); 
+    width: 100%;
+    height: 60px;
+    padding-left: 280px;
+    padding-right: 280px;
+}
+
+.containerNavBarSearch{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
